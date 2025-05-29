@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing repo",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashvermaaa/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinashvermaaa/testing/issues"
+  },
+  "homepage": "https://github.com/avinashvermaaa/testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
